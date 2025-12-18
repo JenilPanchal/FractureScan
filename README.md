@@ -80,7 +80,7 @@ FractureScan exposes a FastAPI application that receives multipart uploads, writ
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/fracturescan.git
+   git clone https://github.com/JenilPanchal/fracturescan.git
    cd fracturescan
    ```
 
